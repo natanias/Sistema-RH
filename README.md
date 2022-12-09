@@ -22,6 +22,6 @@ Os candidatos por sua vez realiza uma avaliação e tem um score.
 
 🔹 <strong>1.HTML</strong>
 🔹 <strong>2.CSS</strong>
-🔹 <strong>3.TypeScript</strong>
+🔹 <strong>3.NodeJS</strong>
 🔹 <strong>4.React</strong>
 🔹 <strong>5.Prisma</strong>
